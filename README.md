@@ -10,10 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=600&height=120&lines=Développeur+Web+Full+Stack;Créateur+de+solutions+numériques+innovantes;Passionné+par+le+développement+web+moderne" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/Mohamedamid/Mohamedamid/raw/main/assets/profile-image.png" alt="Mohamed AMID" width="200" height="200" style="border-radius: 50%;" />
-</div>
-
 ## 🚀 À propos de moi
 Développeur Web Full Stack en formation chez YouCode (UM6P) et ISTA Al Hoceima. Passionné par la création de solutions numériques performantes. Solide base en développement frontend et backend, avec un intérêt particulier pour l'optimisation et l'expérience utilisateur.
 
@@ -54,19 +50,6 @@ Développeur Web Full Stack en formation chez YouCode (UM6P) et ISTA Al Hoceima.
 - **📅 Gestion des emplois du temps (2022-2023)**  
   Application intuitive pour gérer les horaires enseignants/classes.  
   *Technos : HTML, CSS, JS, PHP, MySQL*
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedamid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedamid&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedamid&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
 
 ---
 
