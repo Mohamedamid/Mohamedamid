@@ -28,11 +28,11 @@ Développeur Web Full Stack en formation chez YouCode (UM6P) et ISTA Al Hoceima.
 | Catégorie | Technologies |
 |-----------|--------------|
 | **Frontend** | HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React |
-| **Backend** | PHP, Laravel, Python, C, C#, C++ , Java |
+| **Backend** | PHP, Laravel, Python, C, C#, C++ , Java, Spring boot |
 | **Base de données** | MySQL, PostgreSQL |
 | **Modélisation** | UML (StarUML) |
 | **API & Outils** | Postman, Docker |
-| **Outils de développement** | Visual Studio, PyCharm, CodeBlocks |
+| **Outils de développement** | Visual Studio, PyCharm, CodeBlocks, IntelliJ IDEA |
 | **Design & Prototypage** | Figma, Canva |
 | **Contrôle de version & gestion** | GitHub, Jira |
 
